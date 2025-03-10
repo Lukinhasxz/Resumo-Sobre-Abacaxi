@@ -1,0 +1,44 @@
+* {
+    text-align: center;
+}
+img {
+    width: 200px;
+}
+h1 {
+    color: yellow;
+    background-color: #ecbe00;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body {
+    background-color: antiquewhite;
+}
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+    color: black;
+}
+#origem {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+#Cultivo {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+#Descoberta {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+#Nome {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
